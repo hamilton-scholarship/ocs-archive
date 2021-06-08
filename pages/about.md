@@ -11,5 +11,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the Team" %}
 
 ## About the Collection
+Include description
 
 ## About the Team
+Madeleine, Sacharja, Jiin, + Janet, LITS Interns
