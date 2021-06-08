@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
-<link rel="shortcut icon" type="image/x-icon" href="{{ 'favicon.ico' | relative_url }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
 
  <!--
   _____     ____        __  _           ___       _ __   __       
@@ -11,10 +11,10 @@
    
     built with CollectionBuilder-GH
     https://github.com/CollectionBuilder/collectionbuilder-gh 
+-->
 
 <meta name="generator" content="collectionbuilder-gh" />
 <meta http-equiv="Content-Language" content="en-us" >
-load style sheets -->
 
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}{% endif %}
 <link rel="stylesheet" href="{% if site.data.theme.bootswatch %}https://stackpath.bootstrapcdn.com/bootswatch/4.4.0/{{ site.data.theme.bootswatch }}/bootstrap.min.css{% else %}{{ '/assets/lib/bootstrap.min.css' | relative_url }}{% endif %}" type="text/css">
