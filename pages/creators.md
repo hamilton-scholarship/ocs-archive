@@ -2,6 +2,7 @@
 title: Creators
 layout: cloud
 permalink: /creators.html
+cloud-fields: site.data.theme.creators-fields
 ---
 
 ## Browse by Creator
