@@ -18,4 +18,6 @@ In Fall 2019, we launched a video storytelling and archive project that would en
 
 ## About the Team
 {% include feature/card.html header="OCS Team" text="Madeleine La Cotera (Hamilton College Off-Campus Study Director)" width="25" centered=false %}
-{% include feature/card.html header="LITS Team" text="Sacharja Cunningham, Jiin Jeong (Digital Scholarship Services Intern)" width="25" centered=false %}
+{% include feature/card.html header="Video Production" text="Sacharja Cunningham" width="25" centered=false %}
+{% include feature/card.html header="Web" text="Jiin Jeong (Digital Scholarship Services Intern)" width="25" centered=false %}
+{% include feature/card.html header="Metadata" text="Alex Axton, Anthony Hevia, T Tulga, Janet" width="25" centered=false %}
