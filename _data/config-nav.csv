@@ -1,7 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,,
-Browse All,/browse.html,Browse
+Browse Items,/browse.html,Browse
 By Creators,/creators.html,Browse
 By Tags,/tags.html,Browse
 By Locations,/locations.html,Browse
