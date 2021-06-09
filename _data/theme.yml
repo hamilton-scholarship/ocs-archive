@@ -15,6 +15,7 @@ home-title-y-padding: # Default is 8em
 home-banner-image-position: # Default is center
 featured-subjects:
 featured-locations: Europe;USA;Multiple
+featured-locations-max: 3
 
 ##########
 # ITEM PAGE
