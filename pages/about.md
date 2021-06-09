@@ -17,4 +17,6 @@ In Fall 2019, we launched a video storytelling and archive project that would en
 
 
 ## About the Team
+{% include feature/card.html header="Madeleine La Cotera" text="The card features an image from the collection as a cap" width="25" centered=true %}
+
 Madeleine, Sacharja, Jiin, + Janet, LITS Interns
