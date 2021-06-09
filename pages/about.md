@@ -17,6 +17,5 @@ In Fall 2019, we launched a video storytelling and archive project that would en
 
 
 ## About the Team
-{% include feature/card.html header="Madeleine La Cotera" text="The card features an image from the collection as a cap" width="25" centered=true %}
-
-Madeleine, Sacharja, Jiin, + Janet, LITS Interns
+{% include feature/card.html header="OCS Team" text="Madeleine La Cotera (Hamilton College Off-Campus Study Director)" width="25" centered=false %}
+{% include feature/card.html header="LITS Team" text="Sacharja Cunningham, Jiin Jeong (Digital Scholarship Services Intern)" width="25" centered=false %}
