@@ -1,6 +1,6 @@
 # collectionbuilder-gh
 
-Created for 2021 LACOL Conference. [Hamilton OCS Video Archive CollectionBuilder Site](https://hamilton-ocs.github.io/video-archive/)
+Created for 2021 LACOL Conference: [Hamilton OCS Video Archive CollectionBuilder Site](https://hamilton-ocs.github.io/video-archive/)
 
 ## License
 
