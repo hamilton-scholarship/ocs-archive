@@ -2,10 +2,9 @@
 title: Tags
 layout: cloud
 permalink: /tags.html
-# Default tags page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.tags-fields"
-# a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.tags-fields
+cloud-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
+cloud-min: 3 # min size for subject cloud, too many terms = slow load time!
+cloud-stopwords:
 ---
 
 ## Browse Tags

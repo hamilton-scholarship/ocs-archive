@@ -2,10 +2,9 @@
 title: Creators
 layout: cloud
 permalink: /creators.html
-# Default creators page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.creators-fields"
-# a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.creators-fields
+cloud-fields: creator # set the field to be featured in the cloud (if left blank, none will be generated)
+cloud-min:  # min size for subject cloud, too many terms = slow load time!
+cloud-stopwords:
 ---
 
 ## Browse Creators
