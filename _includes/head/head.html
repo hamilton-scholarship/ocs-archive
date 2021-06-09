@@ -16,6 +16,7 @@
 <meta name="generator" content="collectionbuilder-gh" />
 <meta http-equiv="Content-Language" content="en-us" >
 
+<!-- load style sheets -->
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}{% endif %}
 <link rel="stylesheet" href="{% if site.data.theme.bootswatch %}https://stackpath.bootstrapcdn.com/bootswatch/4.4.0/{{ site.data.theme.bootswatch }}/bootstrap.min.css{% else %}{{ '/assets/lib/bootstrap.min.css' | relative_url }}{% endif %}" type="text/css">
 <script defer src="{{ '/assets/lib/fontawesome-free/js/all.min.js' | relative_url }}"></script>
