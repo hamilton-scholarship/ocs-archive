@@ -23,9 +23,16 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
-subjects-min: 3 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+creators-fields: cretor # set the field to be featured in the cloud (if left blank, none will be generated)
+creators-min: 1 # min size for subject cloud, too many terms = slow load time!
+creators-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+
+##########
+# SUBJECTS PAGE
+#
+tags-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
+tags-min: 3 # min size for subject cloud, too many terms = slow load time!
+tags-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # LOCATIONS PAGE
