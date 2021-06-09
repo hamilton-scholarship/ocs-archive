@@ -21,7 +21,6 @@ In Fall 2019, we launched a video storytelling and archive project that would en
 	<div class="row">
 		{% include feature/card.html header="OCS Team" text="Madeleine La Cotera" width="25" centered=false %}
 		{% include feature/card.html header="Video Production Team" text="Sacharja Cunningham" width="25" centered=false %}
-		{% include feature/card.html header="Web" text="Jiin Jeong (Digital Scholarship Services Intern)" width="25" centered=false %}
-		{% include feature/card.html header="Metadata" text="Alex Axton, Anthony Hevia, T Tulga, Janet" width="25" centered=false %}
+		{% include feature/card.html header="Web and Metadata Team" text="Jiin Jeong, Alex Axton, Anthony Hevia, T Tulga, Janet Simons" width="25" centered=false %}
 	</div>
 </div>
