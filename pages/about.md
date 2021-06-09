@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the Team" %}
 
-{% include feature/image.html objectid="/assets/img/banner.png" %}
+{% include feature/image-external.html src="/assets/img/banner.png" width="100" %}
 
 ## About the Collection
 At Hamilton College, 67% of the student population studies off-campus. Students return to Hamilton describing their experience as “life-changing” or “eye-opening,” for example, but frequently find themselves unable to articulate their complex experience beyond the expected script. To engage students in processing their experiences upon their return to campus and in an effort to continue to guide students through the experiential learning stages that lead to a transformative study abroad experience, the Office of Off-Campus Study (OCS) partnered with Library and Information Technology Services (LITS) at Hamilton to create a student-centered and multidisciplinary project that would provide students with the opportunity to create meaning from their time off-campus.
@@ -21,7 +21,7 @@ In Fall 2019, we launched a video storytelling and archive project that would en
 ## About the Team
 <div class="container">
 	<div class="row">
-		{% include feature/card.html header="OCS Team" text="Madeleine La Cotera" width="25" centered=true %}
+		{% include feature/card.html header="OCS Team" text="Madeleine La Cotera" width="30" centered=true %}
 		{% include feature/card.html header="Video Production Team" text="Sacharja Cunningham" width="25" centered=true %}
 		{% include feature/card.html header="Web and Metadata Team" text="Jiin Jeong, Alex Axton, Anthony Hevia, T Tulga, Janet Oppedisano" width="25" centered=true %}
 	</div>
