@@ -21,7 +21,7 @@ home-banner-image-position: # Default is center
 browse-buttons: true # true/false, adds previous/next arrows to item pages
 
 ##########
-# SUBJECTS PAGE
+# CREATORS PAGE
 #
 creators-fields: cretor # set the field to be featured in the cloud (if left blank, none will be generated)
 creators-min: 1 # min size for subject cloud, too many terms = slow load time!
