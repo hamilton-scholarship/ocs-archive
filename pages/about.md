@@ -17,6 +17,8 @@ At Hamilton College, 67% of the student population studies off-campus. Students 
 
 In Fall 2019, we launched a video storytelling and archive project that would enable students to clearly explain the knowledge they gained from their off-campus experience, that would amplify the voices of students from minoritized backgrounds, and that would enhance student’s digital learning and competencies. Over the course of a semester, students attended digital media workshops and had multiple opportunities to reflect on their off-campus experience. This website was created for the 2021 LACOL Presentation.
 
+<div class="row mt-5"></div>
+
 ### About the Team
 <div class="container">
 	<div class="row mt-5">
