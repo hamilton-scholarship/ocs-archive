@@ -10,14 +10,14 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the Team" %}
 
 
-## About the Collection
+### About the Collection
 At Hamilton College, 67% of the student population studies off-campus. Students return to Hamilton describing their experience as “life-changing” or “eye-opening,” for example, but frequently find themselves unable to articulate their complex experience beyond the expected script. To engage students in processing their experiences upon their return to campus and in an effort to continue to guide students through the experiential learning stages that lead to a transformative study abroad experience, the Office of Off-Campus Study (OCS) partnered with Library and Information Technology Services (LITS) at Hamilton to create a student-centered and multidisciplinary project that would provide students with the opportunity to create meaning from their time off-campus.
 
 {% include feature/image-external.html src="/assets/img/banner.png" width="75" %}
 
 In Fall 2019, we launched a video storytelling and archive project that would enable students to clearly explain the knowledge they gained from their off-campus experience, that would amplify the voices of students from minoritized backgrounds, and that would enhance student’s digital learning and competencies. Over the course of a semester, students attended digital media workshops and had multiple opportunities to reflect on their off-campus experience. This website was created for the 2021 LACOL Presentation.
 
-## About the Team
+### About the Team
 <div class="container">
 	<div class="row">
 		{% include feature/card.html header="OCS Team" text="Madeleine La Cotera" width="25" centered=true %}
