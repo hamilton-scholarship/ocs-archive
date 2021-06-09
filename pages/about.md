@@ -21,7 +21,7 @@ In Fall 2019, we launched a video storytelling and archive project that would en
 
 ### About the Team
 <div class="container">
-	<div class="row mt-5">
+	<div class="row mt-5 ml-3 mr-3">
 		{% include feature/card.html header="OCS Team" text="Madeleine La Cotera" width="25" centered=true %}
 		{% include feature/card.html header="Video Production Team" text="Sacharja Cunningham" width="25" centered=true %}
 		{% include feature/card.html header="Web and Metadata Team" text="Jiin Jeong, Alex Axton, Anthony Hevia, T Tulga, Janet Oppedisano" width="25" centered=true %}
