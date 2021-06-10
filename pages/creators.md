@@ -1,6 +1,6 @@
 ---
 title: Creators
-layout: cloud
+layout: page
 permalink: /creators.html
 ---
 
