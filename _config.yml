@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: https://hamilton-ocs.github.io/video-archive
+url: https://hamilton-scholarship.github.io/ocs-archive
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /video-archive 
+baseurl: /ocs-archive 
 # location of code, the full url to your github repository
-source-code: https://github.com/Hamilton-OCS/video-archive
+source-code: https://github.com/hamilton-scholarship/ocs-archive
 
 ##########
 # SITE SETTINGS
